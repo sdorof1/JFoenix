@@ -14,4 +14,5 @@ dependencies {
     // Versions higher than 2.x are for Java 11
     compile 'org.kordamp.ikonli:ikonli-javafx:2.4.0'
     compile 'org.kordamp.ikonli:ikonli-fontawesome5-pack:2.4.0'
+	compile 'de.jensd:fontawesomefx-fontawesome:4.7.0-5'
 }
